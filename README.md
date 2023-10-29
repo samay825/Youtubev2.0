@@ -16,7 +16,7 @@
 
 - Zork -Youtube2.0 Features
 
-* `Downloadn Vidoes in high quality 1440p.`
+* `Download Vidoes in high quality 1440p.`
 
 * `Supports newest Android also.`
 
