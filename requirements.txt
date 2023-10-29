@@ -1,0 +1,4 @@
+colorama
+wget
+requests
+tqdm
